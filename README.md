@@ -9,7 +9,7 @@ Este proyecto es una API en **Node.js** usando **Express** para manejar el enví
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/magdaniele/Serempre-test.git
 
 ```
 ### 2. **Instalar dependencias**
